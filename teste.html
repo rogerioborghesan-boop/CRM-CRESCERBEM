@@ -802,7 +802,7 @@ TELAS.agenda=()=>telaAgenda('campo');TELAS.agendamkt=()=>telaAgenda('mkt');
 TELAS.novaagenda=async()=>{await telaAgenda('campo');formAgenda('campo',{},()=>telaAgenda('campo'))};
 
 // ---------- TABELA DE PREÇO (honorários) ----------
-TELAS.precos=()=>crud({tabela:'precos',ordem:'servico_id',asc:1,novo:'Preço',filtro:qb=>qb.eq('ativo',true),
+TELAS.precos=()=>crud({tabela:'precos',ordem:'servico_id',asc:1,novo:'Preço',podeCriar:true,podeEditar:()=>true,filtro:qb=>qb.eq('ativo',true),
   campos:[{k:'servico_id',l:'Serviço',t:'sel',o:'servicos',req:1},{k:'descricao',l:'Descrição',req:1,full:1},{k:'tipo',l:'Cobrança',t:'sel',o:[{v:'percentual',t:'% sobre o valor'},{v:'fixo',t:'Valor fixo'},{v:'por_ha',t:'Por hectare'}]},
     {k:'valor',l:'Valor / %',t:'num',req:1},{k:'minimo',l:'Mínimo (R$)',t:'money'},{k:'banco_id',l:'Só para o banco',t:'sel',o:'bancos'},{k:'vigencia',l:'Vigência desde',t:'date'},{k:'ativo',l:'Ativo',t:'bool'},{k:'obs',l:'Observações',t:'area'}],
   padrao:()=>({ativo:true,tipo:'percentual'}),
