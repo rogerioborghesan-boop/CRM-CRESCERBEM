@@ -1,0 +1,24 @@
+name: Publicar versão de teste para todos (05:00)
+on:
+  schedule:
+    - cron: '0 8 * * *'   # 05:00 em Brasília
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Copiar teste.html para index.html
+        run: |
+          if ! cmp -s teste.html index.html; then
+            cp teste.html index.html
+            git config user.name "publicacao-automatica"
+            git config user.email "actions@github.com"
+            git add index.html
+            git commit -m "Publicação diária: versão de teste vai para todos"
+            git push
+          else
+            echo "Sem novidades para publicar."
+          fi
