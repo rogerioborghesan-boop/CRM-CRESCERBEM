@@ -1,0 +1,824 @@
+[
+ {
+  "arquivo": "contrato-de-arrendamento-bb.docx",
+  "nome": "Contrato de arrendamento (BB)",
+  "grupo": "Contratos de terra",
+  "origem": "3 - modelo contr. arrendamento bb.docx",
+  "campos": [
+   "area_cedida",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_estado_civil",
+   "cliente_nome",
+   "fim_extenso",
+   "foro",
+   "imovel_area_total",
+   "imovel_cartorio",
+   "imovel_localidade",
+   "imovel_matricula",
+   "imovel_municipio",
+   "inicio_extenso",
+   "parte_cpf",
+   "parte_endereco",
+   "parte_estado_civil",
+   "parte_nome",
+   "prazo_extenso",
+   "valor_arrendamento"
+  ]
+ },
+ {
+  "arquivo": "contrato-de-comodato-bb.docx",
+  "nome": "Contrato de comodato (BB)",
+  "grupo": "Contratos de terra",
+  "origem": "3.2 - modelo arrend. comodato bb.docx",
+  "campos": [
+   "area_cedida",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_nome",
+   "fim_extenso",
+   "foro",
+   "imovel_area_total",
+   "imovel_cartorio",
+   "imovel_localidade",
+   "imovel_matricula",
+   "imovel_municipio",
+   "inicio_extenso",
+   "parte_cpf",
+   "parte_endereco",
+   "parte_nome",
+   "prazo_extenso",
+   "safras"
+  ]
+ },
+ {
+  "arquivo": "contrato-de-parceria-bb.docx",
+  "nome": "Contrato de parceria (BB)",
+  "grupo": "Contratos de terra",
+  "origem": "3.3 - modelo arrend. parceria bb.docx",
+  "campos": [
+   "area_cedida",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_nome",
+   "fim_extenso",
+   "foro",
+   "imovel_area_total",
+   "imovel_cartorio",
+   "imovel_localidade",
+   "imovel_matricula",
+   "imovel_municipio",
+   "inicio_extenso",
+   "parte_cpf",
+   "parte_endereco",
+   "parte_nome",
+   "parte_profissao",
+   "prazo_extenso"
+  ]
+ },
+ {
+  "arquivo": "contrato-de-parceria-agricola-cresol.docx",
+  "nome": "Contrato de parceria agrícola (Cresol)",
+  "grupo": "Contratos de terra",
+  "origem": "3.4 - modelo parceria cresol.docx",
+  "campos": [
+   "area_cedida",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_nome",
+   "foro",
+   "imovel_area_total",
+   "imovel_cartorio",
+   "imovel_localidade",
+   "imovel_matricula",
+   "imovel_municipio",
+   "parte_cpf",
+   "parte_endereco",
+   "parte_nome",
+   "prazo_extenso"
+  ]
+ },
+ {
+  "arquivo": "distrato-de-arrendamento-bb.docx",
+  "nome": "Distrato de arrendamento (BB)",
+  "grupo": "Contratos de terra",
+  "origem": "3.5 - modelo distrato arrendamento.docx",
+  "campos": [
+   "agencia",
+   "area_cedida",
+   "banco_nome",
+   "cliente_cpf",
+   "cliente_nome",
+   "imovel_localidade",
+   "imovel_matricula",
+   "imovel_municipio",
+   "parte_cpf",
+   "parte_nome"
+  ]
+ },
+ {
+  "arquivo": "contrato-de-parceria-agricola-e-pecuaria-sicoob.docx",
+  "nome": "Contrato de parceria agrícola e pecuária (Sicoob)",
+  "grupo": "Contratos de terra",
+  "origem": "3.6 - modelo contrato parceria - sicoob.docx",
+  "campos": [
+   "area_cedida",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_estado_civil",
+   "cliente_nome",
+   "cliente_rg",
+   "conjuge_cpf",
+   "conjuge_nome",
+   "fim",
+   "imovel_area_total",
+   "imovel_cartorio",
+   "imovel_incra",
+   "imovel_localidade",
+   "imovel_matricula",
+   "inicio",
+   "parte_condicao",
+   "parte_conjuge",
+   "parte_conjuge_cpf",
+   "parte_cpf",
+   "parte_endereco",
+   "parte_nome",
+   "parte_rg",
+   "prazo_extenso"
+  ]
+ },
+ {
+  "arquivo": "carta-de-anuencia-arrendamento-bb.docx",
+  "nome": "Carta de anuência – arrendamento (BB)",
+  "grupo": "Contratos de terra",
+  "origem": "2 - anuencia arrendamento bb.docx",
+  "campos": [
+   "agencia",
+   "area_cedida",
+   "banco_nome",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome",
+   "imovel_cartorio",
+   "imovel_data_registro",
+   "imovel_denominacao",
+   "imovel_folhas",
+   "imovel_livro",
+   "imovel_localidade",
+   "imovel_matricula",
+   "imovel_municipio",
+   "imovel_registro",
+   "parte_cpf",
+   "parte_nome",
+   "safras",
+   "validade",
+   "valor_arrendamento"
+  ]
+ },
+ {
+  "arquivo": "carta-de-anuencia-comodato-bb.docx",
+  "nome": "Carta de anuência – comodato (BB)",
+  "grupo": "Contratos de terra",
+  "origem": "2.1 - anuencia comodato - bb.docx",
+  "campos": [
+   "agencia",
+   "area_cedida",
+   "banco_nome",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome",
+   "imovel_cartorio",
+   "imovel_data_registro",
+   "imovel_denominacao",
+   "imovel_folhas",
+   "imovel_livro",
+   "imovel_localidade",
+   "imovel_matricula",
+   "imovel_municipio",
+   "imovel_registro",
+   "parte_conjuge",
+   "parte_conjuge_cpf",
+   "parte_cpf",
+   "parte_nome",
+   "safras",
+   "usufrutuario2_cpf",
+   "usufrutuario2_nome",
+   "usufrutuario_cpf",
+   "usufrutuario_nome",
+   "validade"
+  ]
+ },
+ {
+  "arquivo": "carta-de-anuencia-parceria-bb.docx",
+  "nome": "Carta de anuência – parceria (BB)",
+  "grupo": "Contratos de terra",
+  "origem": "2.2 - anuencia parceria bb.docx",
+  "campos": [
+   "agencia",
+   "area_cedida",
+   "banco_nome",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome",
+   "imovel_cartorio",
+   "imovel_data_registro",
+   "imovel_denominacao",
+   "imovel_folhas",
+   "imovel_livro",
+   "imovel_localidade",
+   "imovel_matricula",
+   "imovel_municipio",
+   "imovel_registro",
+   "parte_cpf",
+   "parte_nome",
+   "safras",
+   "validade"
+  ]
+ },
+ {
+  "arquivo": "carta-de-anuencia-modelo-novo-bb.docx",
+  "nome": "Carta de anuência – modelo novo (BB)",
+  "grupo": "Contratos de terra",
+  "origem": "2.0 - Carta de Anuencia (modelo novo).docx",
+  "campos": [
+   "agencia",
+   "area_cedida",
+   "atividade",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome",
+   "imovel_cartorio",
+   "imovel_data_registro",
+   "imovel_denominacao",
+   "imovel_folhas",
+   "imovel_livro",
+   "imovel_matricula",
+   "imovel_municipio",
+   "imovel_registro",
+   "parte_cpf",
+   "parte_nome",
+   "safras",
+   "tipo_contrato",
+   "validade",
+   "valor_arrendamento"
+  ]
+ },
+ {
+  "arquivo": "autorizacao-consulta-sicor-bb.docx",
+  "nome": "Autorização consulta SICOR (BB)",
+  "grupo": "Autorizações",
+  "origem": "5 - autorização sicor bb.docx",
+  "campos": [
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome"
+  ]
+ },
+ {
+  "arquivo": "autorizacao-consulta-scr-bb.docx",
+  "nome": "Autorização consulta SCR (BB)",
+  "grupo": "Autorizações",
+  "origem": "5.1 - autorização para consulta ao SCR bb.docx",
+  "campos": [
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome"
+  ]
+ },
+ {
+  "arquivo": "termo-de-aceite-lgpd-crescer-bem.docx",
+  "nome": "Termo de aceite LGPD (Crescer Bem)",
+  "grupo": "Autorizações",
+  "origem": "5.3 - autorização para LGPD.docx",
+  "campos": [
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome"
+  ]
+ },
+ {
+  "arquivo": "autorizacao-de-debito-de-boleto.docx",
+  "nome": "Autorização de débito de boleto",
+  "grupo": "Autorizações",
+  "origem": "INSTRUMENTO PARTICULAR DE AUTORIZAÇÃO PARA DÉBITO AUTOMÁTICO DE BOLETOS.docx",
+  "campos": [
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome",
+   "referente",
+   "valor",
+   "vencimento"
+  ]
+ },
+ {
+  "arquivo": "autorizacao-terranalises-analise-de-solo.docx",
+  "nome": "Autorização Terranálises (análise de solo)",
+  "grupo": "Autorizações",
+  "origem": "AUTORIZAÇÃO - terranalises.docx",
+  "campos": [
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome",
+   "relatorios"
+  ]
+ },
+ {
+  "arquivo": "lgpd-para-cartorio.docx",
+  "nome": "LGPD para cartório",
+  "grupo": "Autorizações",
+  "origem": "LGPD para cartorio presidente getulio.docx",
+  "campos": [
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_estado_civil",
+   "cliente_nascimento",
+   "cliente_nome",
+   "cliente_rg",
+   "data_cedula",
+   "foro",
+   "op_contrato",
+   "op_valor",
+   "parte_cpf",
+   "parte_nome"
+  ]
+ },
+ {
+  "arquivo": "requerimento-de-registro-no-cartorio.docx",
+  "nome": "Requerimento de registro no cartório",
+  "grupo": "Autorizações",
+  "origem": "requerimento cartorio.docx",
+  "campos": [
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_nome",
+   "foro",
+   "op_contrato",
+   "op_valor"
+  ]
+ },
+ {
+  "arquivo": "declaracao-de-propriedade-de-rebanho.docx",
+  "nome": "Declaração de propriedade de rebanho",
+  "grupo": "Declarações",
+  "origem": "Declaração de propriedade de rebanho.docx",
+  "campos": [
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome",
+   "data"
+  ]
+ },
+ {
+  "arquivo": "declaracao-de-atividade-nao-constante-licenciamento.docx",
+  "nome": "Declaração de atividade não constante (licenciamento)",
+  "grupo": "Declarações",
+  "origem": "12  -DECLARAÇÃO DE ATIVIDADE NÃO CONSTANTE - cresol.docx",
+  "campos": [
+   "cidade_data",
+   "cliente_cep",
+   "cliente_cpf",
+   "cliente_localidade",
+   "cliente_municipio",
+   "cliente_nome",
+   "empreendimento"
+  ]
+ },
+ {
+  "arquivo": "declaracao-tecnica-greening.docx",
+  "nome": "Declaração técnica greening",
+  "grupo": "Declarações",
+  "origem": "16 DECLARAÇÃO TÉCNICA  GREENING.docx",
+  "campos": [
+   "cidade_data",
+   "cliente_nome",
+   "op_cultura"
+  ]
+ },
+ {
+  "arquivo": "declaracao-de-semente-salva-uso-proprio.docx",
+  "nome": "Declaração de semente salva (uso próprio)",
+  "grupo": "Declarações",
+  "origem": "18 declaração semente salva.docx",
+  "campos": [
+   "cidade_data",
+   "cliente_cep",
+   "cliente_cpf",
+   "cliente_email",
+   "cliente_endereco",
+   "cliente_municipio",
+   "cliente_nome",
+   "cliente_telefone",
+   "imovel_area_total",
+   "imovel_denominacao",
+   "op_safra"
+  ]
+ },
+ {
+  "arquivo": "concordancia-formal-do-usufrutuario-bb.docx",
+  "nome": "Concordância formal do usufrutuário (BB)",
+  "grupo": "Declarações",
+  "origem": "4 - Concordância formal do Usufrutuário.docx",
+  "campos": [
+   "agencia",
+   "area_cedida",
+   "banco_nome",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome",
+   "imovel_cartorio",
+   "imovel_data_registro",
+   "imovel_folhas",
+   "imovel_livro",
+   "imovel_municipio",
+   "imovel_registro",
+   "safras",
+   "usufrutuario2_cpf",
+   "usufrutuario2_nome",
+   "usufrutuario_cpf",
+   "usufrutuario_nome"
+  ]
+ },
+ {
+  "arquivo": "concordancia-formal-dos-demais-condominos-bb.docx",
+  "nome": "Concordância formal dos demais condôminos (BB)",
+  "grupo": "Declarações",
+  "origem": "4.1 - Concordancia formal dos demais condôminos.docx",
+  "campos": [
+   "agencia",
+   "area_cedida",
+   "banco_nome",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome",
+   "condomino2_cpf",
+   "condomino2_nome",
+   "condomino_cpf",
+   "condomino_nome",
+   "imovel_cartorio",
+   "imovel_data_registro",
+   "imovel_folhas",
+   "imovel_livro",
+   "imovel_municipio",
+   "imovel_registro",
+   "safras"
+  ]
+ },
+ {
+  "arquivo": "anexo-50-concordancia-investimento-fixo-bb.docx",
+  "nome": "Anexo 50 – concordância investimento fixo (BB)",
+  "grupo": "Declarações",
+  "origem": "4.2 - anexo 50 . Conc. Investimento fixo.docx",
+  "campos": [
+   "agencia",
+   "banco_nome",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome",
+   "imovel_cartorio",
+   "imovel_data_registro",
+   "imovel_folhas",
+   "imovel_livro",
+   "imovel_municipio",
+   "imovel_registro",
+   "op_finalidade",
+   "parte_cpf",
+   "parte_nome",
+   "tipo_contrato"
+  ]
+ },
+ {
+  "arquivo": "declaracao-de-inexistencia-de-vinculo-compra-de-animais.docx",
+  "nome": "Declaração de inexistência de vínculo (compra de animais)",
+  "grupo": "Declarações",
+  "origem": "0.2.1 - Inexistencia de Vinculo.docx",
+  "campos": [
+   "agencia",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome",
+   "fornecedor_cpf",
+   "fornecedor_nome",
+   "op_linha"
+  ]
+ },
+ {
+  "arquivo": "declaracao-de-area-consolidada-arroz.docx",
+  "nome": "Declaração de área consolidada – arroz",
+  "grupo": "Declarações",
+  "origem": "1.1.1 - decl area consolidada - arroz.docx",
+  "campos": [
+   "agencia",
+   "banco_nome",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome",
+   "imovel_cartorio",
+   "imovel_matricula"
+  ]
+ },
+ {
+  "arquivo": "anexo-8-declaracao-de-posse-de-imovel-rural-bb.docx",
+  "nome": "Anexo 8 – Declaração de posse de imóvel rural (BB)",
+  "grupo": "Declarações",
+  "origem": "Anexo 8 - Declaração de Posse de Imóvel Rural.docx",
+  "campos": [
+   "agencia",
+   "banco_nome",
+   "caf_numero",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_nome"
+  ]
+ },
+ {
+  "arquivo": "declaracao-cadastro-de-aguas-outorga-siout.docx",
+  "nome": "Declaração cadastro de águas (outorga/SIOUT)",
+  "grupo": "Declarações",
+  "origem": "decl. outorga.docx",
+  "campos": [
+   "atividade",
+   "cidade_data",
+   "cnua",
+   "imovel_cartorio",
+   "imovel_localidade",
+   "imovel_matricula",
+   "imovel_municipio",
+   "protocolo_siout"
+  ]
+ },
+ {
+  "arquivo": "atestado-veterinario-rebanho.docx",
+  "nome": "Atestado veterinário (rebanho)",
+  "grupo": "Declarações",
+  "origem": "ATESTADO VETERINÁRIO.docx",
+  "campos": [
+   "brincos",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_nome",
+   "quantidade",
+   "raca",
+   "valor_cabeca",
+   "valor_total",
+   "veterinario_cpf",
+   "veterinario_crmv",
+   "veterinario_endereco",
+   "veterinario_nome"
+  ]
+ },
+ {
+  "arquivo": "declaracao-de-apascentamento-de-animais.docx",
+  "nome": "Declaração de apascentamento de animais",
+  "grupo": "Declarações",
+  "origem": "1.1.2 Justificativa Apascentamento.docx",
+  "campos": [
+   "agencia",
+   "cidade_data",
+   "quantidade",
+   "raca"
+  ]
+ },
+ {
+  "arquivo": "termo-de-interesse-safra-garantida-sc.docx",
+  "nome": "Termo de interesse – Safra Garantida SC",
+  "grupo": "Declarações",
+  "origem": "Safra Garantida SC - Termo de Interesse - Manifestação Formal.docx",
+  "campos": [
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_nome"
+  ]
+ },
+ {
+  "arquivo": "orcamento-maquinas-e-implementos.docx",
+  "nome": "Orçamento – máquinas e implementos",
+  "grupo": "Orçamentos e outros",
+  "origem": "0.1 - Orçamento maquinas e implementos.docx",
+  "campos": [
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_nome",
+   "data",
+   "fornecedor_cpf",
+   "fornecedor_endereco",
+   "fornecedor_nome"
+  ]
+ },
+ {
+  "arquivo": "orcamento-madeira.docx",
+  "nome": "Orçamento – madeira",
+  "grupo": "Orçamentos e outros",
+  "origem": "0.3- Orçamento Madeira.docx",
+  "campos": [
+   "cliente_cpf",
+   "cliente_nome",
+   "data",
+   "fornecedor_cpf",
+   "fornecedor_nome"
+  ]
+ },
+ {
+  "arquivo": "orcamento-mao-de-obra.docx",
+  "nome": "Orçamento – mão de obra",
+  "grupo": "Orçamentos e outros",
+  "origem": "0.4- Orçamento Mão de Obra padrão.docx",
+  "campos": [
+   "cliente_cpf",
+   "cliente_nome",
+   "fornecedor_cpf",
+   "fornecedor_nome"
+  ]
+ },
+ {
+  "arquivo": "orcamento-mao-de-obra-pastagem.docx",
+  "nome": "Orçamento – mão de obra pastagem",
+  "grupo": "Orçamentos e outros",
+  "origem": "0.5 - Orçamento Mão de Obra Pastagem.docx",
+  "campos": [
+   "cliente_cpf",
+   "cliente_nome",
+   "data",
+   "fornecedor_cpf",
+   "fornecedor_nome"
+  ]
+ },
+ {
+  "arquivo": "orcamento-terraplanagem.docx",
+  "nome": "Orçamento – terraplanagem",
+  "grupo": "Orçamentos e outros",
+  "origem": "0.6 - Orçamento Terraplanagem.docx",
+  "campos": [
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_nome",
+   "data",
+   "fornecedor_cpf",
+   "fornecedor_endereco",
+   "fornecedor_nome"
+  ]
+ },
+ {
+  "arquivo": "orcamento-trator.docx",
+  "nome": "Orçamento – trator",
+  "grupo": "Orçamentos e outros",
+  "origem": "0.8 - Orçamento Trator.docx",
+  "campos": [
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_nome",
+   "data",
+   "fornecedor_cpf",
+   "fornecedor_endereco",
+   "fornecedor_nome"
+  ]
+ },
+ {
+  "arquivo": "orcamento-material-de-construcao.docx",
+  "nome": "Orçamento – material de construção",
+  "grupo": "Orçamentos e outros",
+  "origem": "0.7 - orçamento mat de construção.docx",
+  "campos": [
+   "cliente_cpf",
+   "cliente_nome",
+   "data",
+   "fornecedor_cpf",
+   "fornecedor_endereco",
+   "fornecedor_nome",
+   "fornecedor_telefone"
+  ]
+ },
+ {
+  "arquivo": "orcamento-gado.docx",
+  "nome": "Orçamento – gado",
+  "grupo": "Orçamentos e outros",
+  "origem": "0.2 - Orçamento de Gado.docx",
+  "campos": [
+   "aptidao",
+   "brincos",
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_nome",
+   "data",
+   "fornecedor_cpf",
+   "fornecedor_endereco",
+   "fornecedor_nome",
+   "quantidade",
+   "raca",
+   "valor_cabeca",
+   "valor_total"
+  ]
+ },
+ {
+  "arquivo": "termo-de-garantia-equipamento-usado.docx",
+  "nome": "Termo de garantia (equipamento usado)",
+  "grupo": "Orçamentos e outros",
+  "origem": "0.1.1 - termo de garantia.docx",
+  "campos": [
+   "bem_descricao",
+   "fornecedor_cpf",
+   "fornecedor_nome",
+   "garantia"
+  ]
+ },
+ {
+  "arquivo": "recibo.docx",
+  "nome": "Recibo",
+  "grupo": "Orçamentos e outros",
+  "origem": "9 - modelo recibo.docx",
+  "campos": [
+   "numero",
+   "valor"
+  ]
+ },
+ {
+  "arquivo": "recibo-aluguel-de-maquina.docx",
+  "nome": "Recibo – aluguel de máquina",
+  "grupo": "Orçamentos e outros",
+  "origem": "recibo aluguel de máquina.docx",
+  "campos": [
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_municipio",
+   "cliente_nome",
+   "cliente_telefone",
+   "numero",
+   "referente",
+   "valor",
+   "valor_extenso"
+  ]
+ },
+ {
+  "arquivo": "contrato-de-compra-e-venda-bem-movel.docx",
+  "nome": "Contrato de compra e venda (bem móvel)",
+  "grupo": "Orçamentos e outros",
+  "origem": "11 - Modelo contrato Compra e venda.docx",
+  "campos": [
+   "bem_descricao",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_nome",
+   "fornecedor_cpf",
+   "fornecedor_endereco",
+   "fornecedor_nome",
+   "foro",
+   "garantia",
+   "valor",
+   "valor_extenso"
+  ]
+ },
+ {
+  "arquivo": "contrato-de-doacao.docx",
+  "nome": "Contrato de doação",
+  "grupo": "Orçamentos e outros",
+  "origem": "20 - modelo contrato doação.docx",
+  "campos": [
+   "bem_descricao",
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_estado_civil",
+   "cliente_nome",
+   "cliente_rg",
+   "foro",
+   "parte_cpf",
+   "parte_endereco",
+   "parte_estado_civil",
+   "parte_nome",
+   "parte_profissao",
+   "parte_rg"
+  ]
+ },
+ {
+  "arquivo": "contrato-de-gestao-manutencao-de-maquina-condominio.docx",
+  "nome": "Contrato de gestão/manutenção de máquina (condomínio)",
+  "grupo": "Orçamentos e outros",
+  "origem": "6 - contrato gestão da maquina.docx",
+  "campos": [
+   "bem_descricao",
+   "cidade_data",
+   "cliente_cpf",
+   "cliente_endereco",
+   "cliente_nome",
+   "cliente_rg",
+   "foro",
+   "imovel_cartorio",
+   "imovel_localidade",
+   "imovel_matricula",
+   "imovel_municipio",
+   "parte_cpf",
+   "parte_endereco",
+   "parte_nome",
+   "parte_rg"
+  ]
+ }
+]
